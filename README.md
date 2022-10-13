@@ -1,7 +1,7 @@
-# sqlalchemy-challenge
- #SQLAlchemy Homework - Surfs Up!
-https://github.com/ermiasgelaye/sqlalchemy-challenge/raw/master/Images/surfs-up.png
-#Background
+
+ # SQLAlchemy Homework - Surfs Up!
+
+# Background
 From sandy beaches with emerald-blue water and palm trees under tranquil skies to the rugged, black shoulders of volcanoes that continue to reshape the earth, the Hawaiian Islands teem with diversity. Beyond the terrain itself, the islands present a bedazzling variety of plants, animals and people, a colorful intermingling of different races and ethnic groups, epitomizing the U.S. experience of immigration, collaboration and living together.
 
 This repository is designed to make a climate analysis on Honolulu, Hawaii, to help clients trip planning, and outline what they need to do in there vacation.
@@ -36,9 +36,9 @@ After the initial analysis was completed, a Flask API designed based on the quer
 # Routes
  - /
 
-  - Home page.
+   - Home page.
 
-  - List all routes that are available.
+   - List all routes that are available.
 
 - /api/v1.0/precipitation
 
@@ -51,9 +51,9 @@ After the initial analysis was completed, a Flask API designed based on the quer
   - Return a JSON list of stations from the dataset.
 - /api/v1.0/tobs
 
- - Query the dates and temperature observations of the most active station for the last year of data.
+  - Query the dates and temperature observations of the most active station for the last year of data.
 
- - Return a JSON list of temperature observations (TOBS) for the previous year.
+  - Return a JSON list of temperature observations (TOBS) for the previous year.
 
 - /api/v1.0/<start> and /api/v1.0/<start>/<end>
 
