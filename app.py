@@ -13,9 +13,10 @@ from flask import Flask, jsonify
 
 # Create connection to Hawaii.sqlite file
 #################################################
-
 # engine = create_engine("sqlite:///Users/udeshinpereira/Desktop/sqlalchemy-challenge/hawaii.sqlite")
-engine = create_engine("sqlite:///hawaii.sqlite")
+engine = create_engine("sqlite:///Resources/hawaii.sqlite")
+
+
 # reflect an existing database into a new model
 Base = automap_base()
 
