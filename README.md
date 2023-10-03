@@ -1,5 +1,5 @@
 
- # SQLAlchemy Homework - Surfs Up!
+ # SQLAlchemy!
 
 # Background
 From sandy beaches with emerald-blue water and palm trees under tranquil skies to the rugged, black shoulders of volcanoes that continue to reshape the earth, the Hawaiian Islands teem with diversity. Beyond the terrain itself, the islands present a bedazzling variety of plants, animals and people, a colorful intermingling of different races and ethnic groups, epitomizing the U.S. experience of immigration, collaboration and living together.
